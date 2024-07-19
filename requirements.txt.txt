@@ -1,0 +1,4 @@
+telebot
+flask
+aiogram
+python-telegram-bot
